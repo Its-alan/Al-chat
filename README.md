@@ -89,4 +89,12 @@ Database: [MongoDB Atlas](https://www.mongodb.com/)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screen-Recording-_31-07-2024-19-40-44_](https://github.com/user-attachments/assets/d437db55-6ee6-4d75-a106-983f92ef3534)
+![Screenshot 2024-07-31 022120](https://github.com/user-attachments/assets/f7098fe9-d4eb-47fb-9b18-65699fa4f81d)
+![Screenshot 2024-07-31 022103](https://github.com/user-attachments/assets/5aaf7f3f-676a-446c-b6de-3e55b1950fbb)
+![Screenshot 2024-07-31 021910](https://github.com/user-attachments/assets/b6e5e23e-34c1-4c30-9f56-503dd8279a88)
+![Screenshot 2024-07-31 022249](https://github.com/user-attachments/assets/f21c43ce-40bf-4090-a63d-2b0dd3f854ed)
+
+
+
+
